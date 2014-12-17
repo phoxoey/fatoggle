@@ -6,6 +6,9 @@ jQuery plugin to toggle Font Awesome Icons
 ### Usage
 <code>$(selector).fatoggle(['fa-play','fa-pause'], options);</code>
 
+## Examples:
+[Examples with fatoggle](http://www.phoxoey.com/)
+
 ## OPTIONS:
 - **radio**: (true or false) Font awesome icons used in unordered lists, true will toggle as radio buttons and false allows multiple selections.
 - **classes**: Array of optional font awesome classes to add to selector. Example would be ['fa-3x'] or ['fa-lg','fa-inverse'].
